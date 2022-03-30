@@ -9,7 +9,7 @@ gem "rails", "~> 7.0.2", ">= 7.0.2.3"
 gem "sqlite3", "~> 1.4"
 
 # postgres db support
-gem "pg", "~> 0.18.2"
+gem "pg", "~> 1.1"
 
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
